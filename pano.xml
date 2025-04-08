@@ -21,7 +21,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-11.8776" title="Saul Beach Bar" id="Point01" distance="3.63671" url="{node2}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -48,7 +48,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-83.3064" title="Saul Beach Bar" id="Point03" distance="4.39491" url="{node9}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -75,7 +75,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-92.6457" title="Saul Beach Bar" id="Point03" distance="3.99092" url="{node8}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -102,7 +102,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="281.42" title="Saul Beach Bar" id="Point03" distance="3.88148" url="{node7}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -128,7 +128,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="279.81" title="Saul Beach Bar" id="Point02" distance="3.40871" url="{node6}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -154,7 +154,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="265.232" title="Saul Beach Bar" id="Point02" distance="3.79747" url="{node14}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -180,7 +180,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="284.802" title="Saul Beach Bar" id="Point02" distance="4.20622" url="{node13}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -206,7 +206,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="278.366" title="Saul Beach Bar" id="Point02" distance="4.20322" url="{node12}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -232,7 +232,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-619.011" title="Saul Beach Bar" id="Point02" distance="4.39491" url="{node2}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -258,7 +258,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-84.8829" title="Saul Beach Bar" id="Point02" distance="3.34966" url="{node11}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -283,7 +283,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-259.824" title="Saul Beach Bar" id="Point01" distance="3.34966" url="{node10}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -310,7 +310,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-106.023" title="Saul Beach Bar" id="Point03" distance="3.43987" url="{node18}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -335,7 +335,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-235.651" title="Saul Beach Bar" id="Point01" distance="4.20622" url="{node7}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -361,7 +361,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-272.74" title="Saul Beach Bar" id="Point02" distance="3.79747" url="{node6}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -387,7 +387,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="186.272" title="Saul Beach Bar" id="Point02" distance="3.17398" url="{node16}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -413,7 +413,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="10.3165" title="Saul Beach Bar" id="Point02" distance="3.94641" url="{node17}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -439,7 +439,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-401.279" title="Saul Beach Bar" id="Point02" distance="3.88602" url="{node12}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -466,7 +466,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="285.614" title="Saul Beach Bar" id="Point03" distance="3.76483" url="{node25}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -492,7 +492,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="345.869" title="Saul Beach Bar" id="Point02" distance="3.9045" url="{node20}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -518,7 +518,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-2.03692" title="Saul Beach Bar" id="Point02" distance="3.93218" url="{node21}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -543,7 +543,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="194.368" title="Saul Beach Bar" id="Point01" distance="3.93218" url="{node20}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -568,7 +568,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="-165.244" title="Saul Beach Bar" id="Point01" distance="3.93547" url="{node23}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -594,7 +594,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="386.501" title="Saul Beach Bar" id="Point02" distance="3.93547" url="{node22}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -620,7 +620,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="357.026" title="Saul Beach Bar" id="Point02" distance="4.13763" url="{node23}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
@@ -646,7 +646,7 @@
       <hotspot description="" skinid="ht_node" target="$fwd" pan="32.0432" title="Saul Beach Bar" id="Point02" distance="3.69549" url="{node24}" tilt="0"/>
     </hotspots>
     <media/>
-    <transition softedge="0" zoomout="0" zoomin="0" blendtime="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
+    <transition softedge="0" zoomout="0" zoomin="7" blendtime="1" type="mesh" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" delay="none" zoomoutpause="1" zoomafteroutfov="40" enabled="1"/>
     <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
     <control rubberband="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" zoomcentercursor="1" speedwheel="1" sensitivity="8" contextfullscreen="1" lockedkeyboard="0" simulatemass="1" lockedmouse="0" lockedwheel="0"/>
   </panorama>
