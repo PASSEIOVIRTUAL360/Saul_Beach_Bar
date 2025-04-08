@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.7" apprev="20981" start="node1" hassounds="0">
+  <panorama id="node1">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-96.6322" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" comment="" info="" tags="SAULBEACHBAR" heading="-96.6322" latitude="-23.59495530" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:24:20" longitude="-46.68346033" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-11.8776" url="{node2}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.63671" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-94.9572" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" comment="" info="" tags="SAULBEACHBAR" heading="-94.9572" latitude="-23.59495231" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:24:38" longitude="-46.68349587" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-190.203" url="{node1}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.63671" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-9.3382" url="{node3}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="2.80941" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-83.3064" url="{node9}" id="Point03" title="Saul Beach Bar" target="$fwd" distance="4.39491" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-103.492" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node3" comment="" info="" tags="SAULBEACHBAR" heading="-103.492" latitude="-23.59495038" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:24:58" longitude="-46.68352336" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-197.873" url="{node2}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="2.80941" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="2.51336" url="{node4}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.62548" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-92.6457" url="{node8}" id="Point03" title="Saul Beach Bar" target="$fwd" distance="3.99092" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="256.434" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node4" comment="" info="" tags="SAULBEACHBAR" heading="256.434" latitude="-23.59495937" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:25:17" longitude="-46.68355756" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="182.439" url="{node3}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.62548" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="369.113" url="{node5}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.36837" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="281.42" url="{node7}" id="Point03" title="Saul Beach Bar" target="$fwd" distance="3.88148" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="251.703" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node5" comment="" info="" tags="SAULBEACHBAR" heading="251.703" latitude="-23.59497105" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:25:37" longitude="-46.68358806" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="184.382" url="{node4}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.36837" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="279.81" url="{node6}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.40871" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="239.636" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node6" comment="" info="" tags="SAULBEACHBAR" heading="239.636" latitude="-23.59494401" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:25:51" longitude="-46.68360382" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="87.7433" url="{node5}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.40871" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="265.232" url="{node14}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.79747" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="263.866" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node7" comment="" info="" tags="SAULBEACHBAR" heading="263.866" latitude="-23.59492773" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:26:09" longitude="-46.68357365" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="108.852" url="{node4}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.88148" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="284.802" url="{node13}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="4.20622" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="270.9" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node8" comment="" info="" tags="SAULBEACHBAR" heading="270.9" latitude="-23.59491513" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:26:26" longitude="-46.68353073" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="101.746" url="{node3}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.99092" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="278.366" url="{node12}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="4.20322" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-450.662" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node9" comment="" info="" tags="SAULBEACHBAR" heading="-450.662" latitude="-23.59491360" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:26:41" longitude="-46.68350458" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-439.466" url="{node10}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="4.22464" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-619.011" url="{node2}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="4.39491" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-96.661" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node10" comment="" info="" tags="SAULBEACHBAR" heading="-96.661" latitude="-23.59487633" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:27:06" longitude="-46.68351263" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-265.465" url="{node9}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="4.22464" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-84.8829" url="{node11}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.34966" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-91.6026" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node11" comment="" info="" tags="SAULBEACHBAR" heading="-91.6026" latitude="-23.59484684" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:27:27" longitude="-46.68351934" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-259.824" url="{node10}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.34966" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-92.8375" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node12" comment="" info="" tags="SAULBEACHBAR" heading="-92.8375" latitude="-23.59487765" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:27:47" longitude="-46.68353609" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-265.371" url="{node8}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="4.20322" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-26.6858" url="{node17}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.88602" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-106.023" url="{node18}" id="Point03" title="Saul Beach Bar" target="$fwd" distance="3.43987" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-76.5876" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node13" comment="" info="" tags="SAULBEACHBAR" heading="-76.5876" latitude="-23.59489240" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:28:01" longitude="-46.68358840" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-235.651" url="{node7}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="4.20622" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-118.336" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node14" comment="" info="" tags="SAULBEACHBAR" heading="-118.336" latitude="-23.59491321" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:28:16" longitude="-46.68361992" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-88.6727" url="{node15}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.10699" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-272.74" url="{node6}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.79747" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="249.584" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node15" comment="" info="" tags="SAULBEACHBAR" heading="249.584" latitude="-23.59488893" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:28:29" longitude="-46.68363501" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="99.2473" url="{node14}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.10699" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="186.272" url="{node16}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.17398" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.5391" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node16" comment="" info="" tags="SAULBEACHBAR" heading="79.5391" latitude="-23.59487611" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:28:50" longitude="-46.68360718" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="196.227" url="{node15}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.17398" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="10.3165" url="{node17}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.94641" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-287.431" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node17" comment="" info="" tags="SAULBEACHBAR" heading="-287.431" latitude="-23.59486352" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:29:19" longitude="-46.68357097" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-176.654" url="{node16}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.94641" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-401.279" url="{node12}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.88602" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="281.983" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node18" comment="" info="" tags="SAULBEACHBAR" heading="281.983" latitude="-23.59484753" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:29:37" longitude="-46.68352839" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="448.798" url="{node12}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.43987" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="371.983" url="{node19}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.21083" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="285.614" url="{node25}" id="Point03" title="Saul Beach Bar" target="$fwd" distance="3.76483" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="247.303" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node19" comment="" info="" tags="SAULBEACHBAR" heading="247.303" latitude="-23.59484753" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:29:54" longitude="-46.68355990" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="157.303" url="{node18}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.21083" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="345.869" url="{node20}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.9045" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-110.792" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node20" comment="" info="" tags="SAULBEACHBAR" heading="-110.792" latitude="-23.59485276" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:30:10" longitude="-46.68359779" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-192.226" url="{node19}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.9045" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="-2.03692" url="{node21}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.93218" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="265.613" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node21" comment="" info="" tags="SAULBEACHBAR" heading="265.613" latitude="-23.59486413" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:30:26" longitude="-46.68363433" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="194.368" url="{node20}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.93218" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-71.7617" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node22" comment="" info="" tags="SAULBEACHBAR" heading="-71.7617" latitude="-23.59481189" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:30:41" longitude="-46.68364606" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-165.244" url="{node23}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.93547" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="299.984" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node23" comment="" info="" tags="SAULBEACHBAR" heading="299.984" latitude="-23.59481404" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:30:56" longitude="-46.68360751" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="207.597" url="{node24}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="4.13763" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="386.501" url="{node22}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.93547" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="269.413" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node24" comment="" info="" tags="SAULBEACHBAR" heading="269.413" latitude="-23.59481559" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:31:09" longitude="-46.68356694" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="182.604" url="{node25}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.69549" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="357.026" url="{node23}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="4.13763" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelingpitch="0" levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2992" levelingroll="0" levelbiashidpi="1.000" overlap="1" height="2992" leveltilesize="510">
+      <level width="2992" preload="0" height="2992" predecode="0"/>
+      <level width="1496" preload="0" height="1496" predecode="0"/>
+      <level width="748" preload="0" height="748" predecode="0"/>
+      <level width="374" preload="1" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-61.1478" fovmode="2">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+    </view>
+    <userdata nodeid="node25" comment="" info="" tags="SAULBEACHBAR" heading="-61.1478" latitude="-23.59481374" customnodeid="" source="" title="Saul Beach Bar" datetime="2025:04:07 09:31:24" longitude="-46.68353073" author="" copyright="" description=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label borderalpha="1" border="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" wordwrap="1" width="180" height="20" backgroundalpha="1" textcolor="0x000000" textalpha="1" background="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-237.517" url="{node18}" id="Point01" title="Saul Beach Bar" target="$fwd" distance="3.76483" skinid="ht_node" tilt="0" description=""/>
+      <hotspot pan="32.0432" url="{node24}" id="Point02" title="Saul Beach Bar" target="$fwd" distance="3.69549" skinid="ht_node" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" zoomout="0" type="crossdissolve" blendtime="1" zoomoutpause="1" enabled="1" zoomin="0" zoomfov="40" delay="none" softedge="0" zoomafterinfov="140"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedwheel="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" invertcontrol="1" invertwheel="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" lockedmouse="0" lockedkeyboardzoom="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" title="" author="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
