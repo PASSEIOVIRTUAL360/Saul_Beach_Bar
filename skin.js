@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.7/20981
-// Filename: 
-// Generated 2025-04-18T15:42:21
+// Filename: DSFSFDS.ggsk
+// Generated 2025-04-18T15:53:52
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_3d_preview', 2, true, { ignoreInState: 1  });
@@ -208,6 +208,7 @@ function pano2vrSkin(player,base) {
 		me._svg_3.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._svg_3);
+			player.playSound("_background","1");
 		player.addListener('activehotspotchanged', function(event) {
 			if (hotspotTemplates.hasOwnProperty('ht_node')) {
 				for(var i = 0; i < hotspotTemplates['ht_node'].length; i++) {
